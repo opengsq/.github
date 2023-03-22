@@ -7,3 +7,7 @@ While non-specialists are enabled to use this library for query game servers fas
 Join our Discord and connect with other members to share and learn together. Send a pull request to any of our open source repositories on Github.
 
 [![OpenGSQ Discord server Banner](https://discord.com/api/guilds/1088231927179395133/widget.png?style=banner2)](https://discord.gg/9BTG3KE9gC)
+
+
+### Contribution
+If you are a developer and would like to create and maintain a new programming language game server query library, please join the discord server and get in touch!
