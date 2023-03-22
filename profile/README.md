@@ -1,4 +1,5 @@
-![OpenGSQ Banner](https://user-images.githubusercontent.com/29337428/227058553-ff49e693-3fd3-435c-b2fe-7ef6c4f85659.jpg)
+![OpenGSQ Banner](https://user-images.githubusercontent.com/29337428/227058710-ad10654e-d830-4e4c-89de-5fed2da36114.jpg)
+
 
 OpenGSQ is an open-source game server query libraries that helps developers or admins query game servers easily and efficiently.
 While non-specialists are enabled to use this library for query game servers faster through the library.
